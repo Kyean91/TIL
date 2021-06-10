@@ -2,4 +2,4 @@
 
 Today I Learned
 
-Python & SQL 과제
+Python & SQL 배운것

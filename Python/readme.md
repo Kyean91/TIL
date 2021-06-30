@@ -10,4 +10,4 @@
 - 2021/06/29 : plotly package(plotly express, line, bar, area), 주가 정보 수집 및 csv 파일로 저장
 
 ## File
- - Stock_data_collecting_function.ipynb : 종목 코드 or 종목명을 입력하면 해당 종목의 입력일의 주가 정보를 반환하는 
+ - Stock_data_collecting_function.ipynb : 종목 코드 or 종목명을 입력하면 해당 종목의 입력일의 주가 정보를 반환하는 함수 코드

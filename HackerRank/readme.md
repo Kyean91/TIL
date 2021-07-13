@@ -4,5 +4,5 @@
 - 2021/07/08 : Mutations, Find a string, String Validators, Text Alignment, Text Wrap, List, Tuples, Triangle Quest, sWAP cASE, Designer Door Mat
 - 2021/07/09 : String Formatting, Alphabet Rangoli, Capitalize!
 - 2021/07/10 : The Minion Game, Merge The Tools!, itertools.product()
-- 2021/07/11 : 
-- 
+- 2021/07/11 : itertools.permutations(), collections.Counter(), DefaultDict Tutorial
+- 2021/07/12 : 

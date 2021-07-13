@@ -6,4 +6,5 @@
 - 2021/07/10 : The Minion Game, Merge The Tools!, itertools.product()
 - 2021/07/11 : itertools.permutations(), collections.Counter(), DefaultDict Tutorial
 - 2021/07/12 : Collections.namedtuple(), Collections.OrderedDict(), Word Order
-- 2021/07/13 : 
+- 2021/07/13 : Collections.deque(), Piling Up!, Company Logo
+- 2021/07/14 : 

@@ -7,4 +7,5 @@
 - 2021/07/11 : itertools.permutations(), collections.Counter(), DefaultDict Tutorial
 - 2021/07/12 : Collections.namedtuple(), Collections.OrderedDict(), Word Order
 - 2021/07/13 : Collections.deque(), Piling Up!, Company Logo
-- 2021/07/14 : 
+- 2021/07/14 : Polar Coordinates, Find Angle MBC, Triangle Quest 2
+- 2021/07/15 :

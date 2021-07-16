@@ -9,4 +9,5 @@
 - 2021/07/13 : Collections.deque(), Piling Up!, Company Logo
 - 2021/07/14 : Polar Coordinates, Find Angle MBC, Triangle Quest 2
 - 2021/07/15 : Introduction to Sets, Symmetric Difference, No Idea!
-- 2021/07/16 : 
+- 2021/07/16 : Calendar Module, Time Delta, Array Mathematics
+- 2021/07/17 : 

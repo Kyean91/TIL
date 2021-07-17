@@ -11,3 +11,4 @@
 - 2021/07/15 : Introduction to Sets, Symmetric Difference, No Idea!
 - 2021/07/16 : Calendar Module, Time Delta, Array Mathematics
 - 2021/07/17 : 
+- 2021/07/18 : 

@@ -12,3 +12,4 @@
 - 2021/07/16 : Calendar Module, Time Delta, Array Mathematics
 - 2021/07/17 : 
 - 2021/07/18 : 
+- 2021/07/19 : 

@@ -10,7 +10,7 @@
 - 2021/07/14 : Polar Coordinates, Find Angle MBC, Triangle Quest 2
 - 2021/07/15 : Introduction to Sets, Symmetric Difference, No Idea!
 - 2021/07/16 : Calendar Module, Time Delta, Array Mathematics
-- 2021/07/17 : 
-- 2021/07/18 : 
+- 2021/07/17 : Esceptions, Incorrect Regex, ginortS
+- 2021/07/18 : itertools.combinations(), itertools.combinations_with_replacement(), Compress the String!
 - 2021/07/19 : 
 - 2021/07/20 : 

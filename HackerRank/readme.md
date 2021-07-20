@@ -12,5 +12,5 @@
 - 2021/07/16 : Calendar Module, Time Delta, Array Mathematics
 - 2021/07/17 : Esceptions, Incorrect Regex, ginortS
 - 2021/07/18 : itertools.combinations(), itertools.combinations_with_replacement(), Compress the String!
-- 2021/07/19 : 
+- 2021/07/19 : Iterables and Iterators, Maximize It!, 
 - 2021/07/20 : 

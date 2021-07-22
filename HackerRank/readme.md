@@ -14,4 +14,4 @@
 - 2021/07/18 : itertools.combinations(), itertools.combinations_with_replacement(), Compress the String!
 - 2021/07/19 : Iterables and Iterators, Set .add(), Set .discard(), .remove() & .pop()
 - 2021/07/20 : Set .union() Operation, Set .intersection() Operation, Set .difference() Operation
-- 2021/07/21 : Project 수행으로 인한 일시 중단
+- 2021/07/21 : Project_ 수행으로 인한 일시 중단
